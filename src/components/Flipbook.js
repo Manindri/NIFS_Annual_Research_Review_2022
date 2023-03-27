@@ -21,7 +21,7 @@ const Page = React.forwardRef(({ pageNumber }, ref) => {
 export default function Flipbook() {
   return (
     <div className="flipbookstyle" id="flip">
-        <Document file={'../Annual Research Review 2021 EN.pdf'}>
+        <Document file={'Annual Research Review 2021 EN.pdf'}>
           <HTMLFlipBook width={width} height={height}>
             <Page pageNumber={1} />
             <Page pageNumber={2} />
