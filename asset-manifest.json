@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/NIFS_Annual_Research_Review_2022/static/css/main.6904eef7.css",
+    "main.js": "/NIFS_Annual_Research_Review_2022/static/js/main.6f644df6.js",
+    "static/js/787.2b4fb6d3.chunk.js": "/NIFS_Annual_Research_Review_2022/static/js/787.2b4fb6d3.chunk.js",
+    "static/media/Annual Research Review 2021 EN.pdf": "/NIFS_Annual_Research_Review_2022/static/media/Annual Research Review 2021 EN.508a54ded5f932d68e25.pdf",
+    "static/media/ARRFrontCover.jpg": "/NIFS_Annual_Research_Review_2022/static/media/ARRFrontCover.bb4141f65f1e9f313f85.jpg",
+    "static/media/background.jpg": "/NIFS_Annual_Research_Review_2022/static/media/background.23e4806dc6e17cb02ed6.jpg",
+    "index.html": "/NIFS_Annual_Research_Review_2022/index.html",
+    "main.6904eef7.css.map": "/NIFS_Annual_Research_Review_2022/static/css/main.6904eef7.css.map",
+    "main.6f644df6.js.map": "/NIFS_Annual_Research_Review_2022/static/js/main.6f644df6.js.map",
+    "787.2b4fb6d3.chunk.js.map": "/NIFS_Annual_Research_Review_2022/static/js/787.2b4fb6d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6904eef7.css",
+    "static/js/main.6f644df6.js"
+  ]
+}
