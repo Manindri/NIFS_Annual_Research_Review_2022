@@ -2,7 +2,6 @@ import React from "react";
 import HTMLFlipBook from "react-pageflip";
 import { pdfjs, Document, Page as ReactPdfPage } from "react-pdf";
 import "../styles.css";
-import samplePDF from "../Annual Research Review 2021 EN.pdf";
 
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
