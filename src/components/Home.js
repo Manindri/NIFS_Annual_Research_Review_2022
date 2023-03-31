@@ -68,7 +68,7 @@ export default function Home() {
                                 <h4>PDF Version</h4>
                                 <FontAwesomeIcon icon={faFilePdf} className={'popupimg'}></FontAwesomeIcon>
 
-                                <a href="Annual Research Review 2019 EN.pdf" className='popupdown' download="Annual Research Review 2019 EN.pdf">Download </a>
+                                <a href="Annual Research Review 2022.pdf" className='popupdown' download="Annual Research Review 2022.pdf">Download </a>
                               
                               </div>
                             </Col>
